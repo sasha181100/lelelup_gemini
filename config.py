@@ -1,0 +1,3 @@
+CONF = {
+    "model-name'"
+}
